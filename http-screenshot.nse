@@ -3,7 +3,7 @@ description = [[
 Gets a screenshot from the host
 ]]
 
-author = "Ryan Linn <rlinn at trustwave.com>, Tudor Enache <tudor at aecert.ae>"
+author = "Ryan Linn <rlinn at trustwave.com>, Tudor Enache"
 
 license = "GPLv2"
 
